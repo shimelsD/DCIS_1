@@ -1,0 +1,10 @@
+Execute the "database.sql" file under database named 'dcis'.
+
+code to create
+__________________
+
+create database dcis;
+use dcis go;
+
+-------------
+Then execute database.sql file
